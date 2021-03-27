@@ -1,5 +1,5 @@
 
-### Olá 👋
+### Olá 👋, tudo bem? 
 Meu nome é Henrique Duarte Vargas, sou graduado no Tecnólogo em Sistemas para Internet e estou na área de TI há mais de 7 anos. Durante esse tempo, obtive experiência em uma agência digital de minha cidade natal, trabalhando como Suporte Técnico e Desenvolvedor Front-end, sabendo lidar com soluções de problemas, ter um bom relacionamento interpessoal com clientes e colaboradores, trabalhando com desenvolvimento de sites institucionais, landing pages, lojas virtuais, hotsites promocionais, dentre muitos outros, usando as principais tecnologias disponíveis no mercado.
 
 - 🔭 Estou aberto para trabalho tanto presencial, remoto ou freelance, preferencialmente na área de Front-End, mas não resisto a um bom desafio;
