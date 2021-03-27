@@ -6,7 +6,6 @@ Meu nome é Henrique Duarte Vargas, sou graduado no Tecnólogo em Sistemas para 
 - 🌱 Estou recentemente me aventurando no back-end, usando Node.js e criando novos projetos para aperfeiçoar minhas habilidades;
 - 🤝 Pretendo cada vez mais contribuir e exercer meus conhecimentos para ajudar o próximo.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquehdv93)](https://github.com/henriquehdv93/github-readme-stats)
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/henriquehdv)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/henrique-vargas-149002136/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/henriquehdv/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/henrique.vargas.1238)
 
